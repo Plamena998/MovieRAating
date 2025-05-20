@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgX2RFEIVxg=",
+  "dgSpecHash": "bvhAMovnz4Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\plami\\source\\repos\\MovieRating2000\\MovieRating2000\\MovieRating2000.csproj",
+  "projectFilePath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\MovieRating2000\\Movies\\MovieRating2000\\MovieRating2000.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plami\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\plami\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512"
